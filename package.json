@@ -1,0 +1,11 @@
+{
+  "name": "promised-storage",
+  "version": "0.5.0",
+  "description": "Store persistent data in the browser asynchronously using promises",
+  "main": "promised-storage.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Sergi Mansilla <sergi.mansilla@gmail.com>",
+  "license": "MIT"
+}
